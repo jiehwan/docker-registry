@@ -1,6 +1,7 @@
 referred from https://hub.docker.com/r/hyper/docker-registry-web/ 
 # execution
 * generate cert key
+* add registry-srv into insecure-registries
 * ./run.sh
 # log in web 
 * initial admin/admin
