@@ -1,8 +1,11 @@
-# 1. execute run.sh
-# 2. log in web 
+referred from https://hub.docker.com/r/hyper/docker-registry-web/ 
+# execution
+* generate cert key
+* ./run.sh
+# log in web 
 * initial admin/admin
 * add user on web with all R/W permission
-# 3. test
+# test
 ## pull
 ```
 $ docker pull 192.168.0.9:443/hello-seattle
